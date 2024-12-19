@@ -1,0 +1,17 @@
+C:\Users\thiag\Documents\challenge\challenge\bin\Release\challenge.exe.config
+C:\Users\thiag\Documents\challenge\challenge\bin\Release\challenge.exe
+C:\Users\thiag\Documents\challenge\challenge\bin\Release\challenge.pdb
+C:\Users\thiag\Documents\challenge\challenge\bin\Release\challenge.xml
+C:\Users\thiag\Documents\challenge\challenge\obj\Release\challenge.vbproj.AssemblyReference.cache
+C:\Users\thiag\Documents\challenge\challenge\obj\Release\challenge.MenuClientes.resources
+C:\Users\thiag\Documents\challenge\challenge\obj\Release\challenge.MenuDeAdministracionDeVentas.resources
+C:\Users\thiag\Documents\challenge\challenge\obj\Release\challenge.MenuPrincipal.resources
+C:\Users\thiag\Documents\challenge\challenge\obj\Release\challenge.MenuProductos.resources
+C:\Users\thiag\Documents\challenge\challenge\obj\Release\challenge.MenuReportes.resources
+C:\Users\thiag\Documents\challenge\challenge\obj\Release\challenge.MenuVentas.resources
+C:\Users\thiag\Documents\challenge\challenge\obj\Release\challenge.Resources.resources
+C:\Users\thiag\Documents\challenge\challenge\obj\Release\challenge.vbproj.GenerateResource.cache
+C:\Users\thiag\Documents\challenge\challenge\obj\Release\challenge.vbproj.CoreCompileInputs.cache
+C:\Users\thiag\Documents\challenge\challenge\obj\Release\challenge.exe
+C:\Users\thiag\Documents\challenge\challenge\obj\Release\challenge.xml
+C:\Users\thiag\Documents\challenge\challenge\obj\Release\challenge.pdb

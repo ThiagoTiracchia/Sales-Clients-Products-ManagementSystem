@@ -1,0 +1,17 @@
+C:\Users\thiag\Documents\challenge\challenge\bin\Debug\challenge.exe.config
+C:\Users\thiag\Documents\challenge\challenge\bin\Debug\challenge.exe
+C:\Users\thiag\Documents\challenge\challenge\bin\Debug\challenge.pdb
+C:\Users\thiag\Documents\challenge\challenge\bin\Debug\challenge.xml
+C:\Users\thiag\Documents\challenge\challenge\obj\Debug\challenge.vbproj.AssemblyReference.cache
+C:\Users\thiag\Documents\challenge\challenge\obj\Debug\challenge.Resources.resources
+C:\Users\thiag\Documents\challenge\challenge\obj\Debug\challenge.vbproj.GenerateResource.cache
+C:\Users\thiag\Documents\challenge\challenge\obj\Debug\challenge.vbproj.CoreCompileInputs.cache
+C:\Users\thiag\Documents\challenge\challenge\obj\Debug\challenge.exe
+C:\Users\thiag\Documents\challenge\challenge\obj\Debug\challenge.xml
+C:\Users\thiag\Documents\challenge\challenge\obj\Debug\challenge.pdb
+C:\Users\thiag\Documents\challenge\challenge\obj\Debug\challenge.MenuPrincipal.resources
+C:\Users\thiag\Documents\challenge\challenge\obj\Debug\challenge.MenuProductos.resources
+C:\Users\thiag\Documents\challenge\challenge\obj\Debug\challenge.MenuClientes.resources
+C:\Users\thiag\Documents\challenge\challenge\obj\Debug\challenge.MenuVentas.resources
+C:\Users\thiag\Documents\challenge\challenge\obj\Debug\challenge.MenuDeAdministracionDeVentas.resources
+C:\Users\thiag\Documents\challenge\challenge\obj\Debug\challenge.MenuReportes.resources
